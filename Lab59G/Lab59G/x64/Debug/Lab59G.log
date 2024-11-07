@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\Viktor\source\repos\Lab59G\Lab59G\FileName.cpp(91,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab59G.vcxproj -> C:\Users\Viktor\source\repos\Lab59G\x64\Debug\Lab59G.exe
